@@ -45,4 +45,5 @@ Divirta-se transcrevendo seus áudios com o ChatGPT! Se você tiver alguma dúvi
 ## Credito
 
 Daviny Letícia -> https://daviny.dev
-Linceça: GPT
+
+Linceça: GNU General Public License

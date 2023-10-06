@@ -37,6 +37,12 @@ pip install openai pydub
 
 - Lembre-se de que o ChatGPT consome recursos da API da OpenAI e pode ter limitações quanto ao número de solicitações permitidas em um período de tempo específico. Certifique-se de estar ciente das políticas de uso da OpenAI ao usar este script em larga escala.
 
+
 - Este projeto é apenas um exemplo simples de como usar o ChatGPT para transcrição de áudio. Você pode personalizar o script e adicionar recursos adicionais, como processamento de linguagem natural para melhorar a precisão das transcrições ou suporte para outros formatos de áudio, conforme necessário.
 
 Divirta-se transcrevendo seus áudios com o ChatGPT! Se você tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato com a equipe de suporte da OpenAI.
+
+## Credito
+
+Daviny Letícia -> https://daviny.dev
+Linceça: GPT

@@ -8,11 +8,11 @@ Este é um projeto que utiliza o ChatGPT para realizar a transcrição de áudio
 
 2. Clone este repositório para o seu ambiente local ou faça o download dos arquivos.
 
-3. Certifique-se de que todos os arquivos de áudio .mp3 que deseja transcrever estão na mesma pasta do script `transcricao_audio.py`.
+3. Certifique-se de que todos os arquivos de áudio .mp3 que deseja transcrever estão na mesma pasta do script `transcricao.py`.
 
-4. Execute o script `transcricao_audio.py` no seu ambiente Python. Isso iniciará o processo de transcrição.
+4. Execute o script `transcricao.py` no seu ambiente Python. Isso iniciará o processo de transcrição.
 
-5. Após a conclusão da transcrição, você encontrará os arquivos de texto resultantes na pasta `resultados_transcricao`, que será criada automaticamente pelo script. Cada arquivo de áudio .mp3 será transcrita em um arquivo de texto correspondente.
+5. Após a conclusão da transcrição, você encontrará os arquivos de texto resultantes na pasta `dir_mp3`, que será criada automaticamente pelo script. Cada arquivo de áudio .mp3 será transcrita em um arquivo de texto correspondente.
 
 ## Configuração
 

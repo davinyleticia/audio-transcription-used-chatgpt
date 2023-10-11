@@ -2,6 +2,15 @@
 
 Este é um projeto que utiliza o ChatGPT para realizar a transcrição de áudios em formato .mp3. O script Python incluído neste repositório permite automatizar o processo de transcrição, pegando todos os arquivos de áudio .mp3 presentes na mesma pasta do script e convertendo-os em arquivos de texto transcritos. Os arquivos de texto resultantes são armazenados em uma pasta que o script cria automaticamente.
 
+## Instalação
+
+Primeiro certifique que tenha o git instalado
+
+```
+git@github.com:davinyleticia/audio-transcription-used-chatgpt.git
+```
+o repositório do git é [https://github.com/davinyleticia/audio-transcription-used-chatgpt](https://github.com/davinyleticia/audio-transcription-used-chatgpt)
+
 ## Como Usar
 
 1. Certifique-se de ter o ChatGPT instalado e configurado no seu ambiente. Você pode seguir as instruções fornecidas pela OpenAI para fazer isso.
